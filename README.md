@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @thomasyyyu
-- 👀 I’m interested in Data testing, software engineering
+- 👋 Hi, I’m @thomasyyyu (Yang(Thomas) Yu)
+- 👀 I’m interested in Data testing, software development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m seeking for software engineer positions
 - 📫 thomasyyuu@gmail.com
 
-<!---
-thomasyyyu/thomasyyyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
